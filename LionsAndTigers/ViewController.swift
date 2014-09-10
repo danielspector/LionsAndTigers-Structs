@@ -11,15 +11,15 @@ import UIKit
 class ViewController: UIViewController {
     
     
-    @IBOutlet var myImageView: UIImageView
+    @IBOutlet var myImageView: UIImageView!
     
-    @IBOutlet var nameLabel: UILabel
+    @IBOutlet var nameLabel: UILabel!
     
-    @IBOutlet var ageLabel: UILabel
+    @IBOutlet var ageLabel: UILabel!
     
-    @IBOutlet var breedLabel: UILabel
+    @IBOutlet var breedLabel: UILabel!
     
-    @IBOutlet var randomFactLabel: UILabel
+    @IBOutlet var randomFactLabel: UILabel!
     
     var myTigers: [Tiger] = []
     

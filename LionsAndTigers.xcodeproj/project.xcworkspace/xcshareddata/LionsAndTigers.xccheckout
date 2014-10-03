@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>43453037-609B-47ED-B07D-5B0126A21CD8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LionsAndTigers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E49D91D821304802E422C6B76D4407B3E442CC91</key>
+		<string>github.com:BitFountain/LionsAndTigers-Structs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LionsAndTigers.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E49D91D821304802E422C6B76D4407B3E442CC91</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:BitFountain/LionsAndTigers-Structs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E49D91D821304802E422C6B76D4407B3E442CC91</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E49D91D821304802E422C6B76D4407B3E442CC91</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LionsAndTigers-Structs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
